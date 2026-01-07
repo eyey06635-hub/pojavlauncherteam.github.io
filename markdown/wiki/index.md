@@ -1,3 +1,7 @@
+1745dgkwvegi8 
+12
+1
+0
 
 # Welcome to the PojavLauncher Wiki!
 ____
